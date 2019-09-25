@@ -1,4 +1,4 @@
-module github.com/nsqio/nsq
+module github.com/pubgo/nsq
 
 require (
 	github.com/BurntSushi/toml v0.3.1

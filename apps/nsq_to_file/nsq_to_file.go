@@ -13,9 +13,9 @@ import (
 
 	"github.com/mreiferson/go-options"
 	"github.com/nsqio/go-nsq"
-	"github.com/nsqio/nsq/internal/app"
-	"github.com/nsqio/nsq/internal/lg"
-	"github.com/nsqio/nsq/internal/version"
+	"github.com/pubgo/nsq/internal/app"
+	"github.com/pubgo/nsq/internal/lg"
+	"github.com/pubgo/nsq/internal/version"
 )
 
 func hasArg(s string) bool {
